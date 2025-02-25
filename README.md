@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yumnakm
+- 👋 Hi, I’m Yumna
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me
