@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuma
+- 👋 Hi, I’m Yumna
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning NextJS
 - 📫 How to reach me
